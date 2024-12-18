@@ -6,13 +6,18 @@ I am a **Master of Science in Data Science** student at **Duke University**, com
 
 ---
 
-## 👀 **What I'm Interested In**
-I'm constantly learning and exploring new challenges in data science. My key areas of interest include:
+## 👀 **What I'm Interested In**  
+
+I'm learning and exploring new challenges in data science. My key areas of interest include:  
 
 - 🤖 **Machine Learning** – Building predictive and prescriptive models for actionable insights.  
 - 💬 **Natural Language Processing (NLP)** – Extracting meaning and value from text data.  
 - ☁️ **Data Engineering** – Optimizing pipelines on platforms like **AWS** and **Databricks**.  
-- 📈 **Statistical Modeling** – Turning data into stories and strategies.
+- 📈 **Statistical Modeling** – Turning data into stories and strategies.  
+- 📊 **Data Science in Product Management** – Leveraging data to improve products and user experiences.  
+- 💵 **Financial Data-Driven Decision Making** – Analyzing financial data to drive strategic business decisions.  
+- 🛍️ **Understanding Consumer Trends** – Identifying patterns to anticipate customer needs and behavior.  
+- 🌍 **Market Analysis** – Applying data science to understand market dynamics and opportunities.  
 
 ---
 
