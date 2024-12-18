@@ -31,7 +31,6 @@ I thrive in both modeling and deployment, with hands-on experience in the follow
 **Certifications**:  
 - **Duke Innovation & Entrepreneurship Certificate**  
 - Bloomberg Certification  
-- DataCamp: Intermediate R, EDA, Regression  
 
 ---
 
